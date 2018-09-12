@@ -1,0 +1,40 @@
+_repo: Butterfly-9_51167
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan
+    - Gaughan, John Brian Francis
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+creator:
+  author:
+    agent_name: Keith, Donald
+    gutenberg_agent_id: '46272'
+    url: http://www.gutenberg.org/2009/agents/46272
+    wikipedia: https://en.wikipedia.org/wiki/Donald_Keith_%28author%29
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Engineers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Butterfly 9
+url: http://www.gutenberg.org/ebooks/51167
